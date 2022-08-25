@@ -11,6 +11,6 @@ Hvad skal mine partials indeholde (eks. mixins, variabler) ?
 
 _LogoStyles vil indholde 3 mixins til "logo" categori 
 
-_Colors vil indholde variables "prime" "neutral" og "Secondary" med speciel farve. 
+_Colors vil indholde variables "Prime" "Neutral" og "Secondary" med speciel farve. 
 
 _Typography vil indholde mixins til inputs
