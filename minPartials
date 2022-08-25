@@ -1,0 +1,29 @@
+alle Partials 
+
+1. --Partial _position
+
+den vil indholde mixins til positionering af "h2" op "p" tags i min sectioner på side.
+
+2. --Partial _colors 
+
+den vil indholde alle farve variables til "h2", "p" "button" tags, for at style dem hurtigst muligt
+
+3. --Partial _buttons 
+
+den vil indholde mixins som vil style buttons i section "Be Red Cross Ready" på sammen mode, da de har en sammen "padding", "margin" og "border radius" og "hover" effekt 
+
+4. --Partial _text 
+
+den vil indholde mixin med "font-style" , "font-size", "font-family" og "font-weight";
+
+5. --Partial _links 
+
+den vil indholde mixin med "hover" effekt på alle "a" tags på side og osv..
+
+6. --Partial _gallery
+
+den vil indholde mixins som style alle billeder i sections: "The Red Cross Mission At Work" , "Special Ways to Share in Our Mission", "Be Red Cross Ready" , "Shop the Red Cross Store" med "padding" , "margin" "width" og osv..
+
+7. --Partial _icons 
+
+den vil indholde mixin som style alle iconer på side med sammen farve, størelse og positionering.
